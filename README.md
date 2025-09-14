@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at Assiut University (2023 – 2027)  
 🌍 **Open Source Contributor** (Chromium)  
-💻 **Competitive Programmer**
+💻 **Competitive Programmer** (Specialist @codeforces)
 
 ---
 
