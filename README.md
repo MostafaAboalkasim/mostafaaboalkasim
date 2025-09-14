@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Mostafa Aboalkasim  
 
-<!--
-**MostafaAboalkasim/mostafaaboalkasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at Assiut University (2023 – 2027)  
+🌍 **Open Source Contributor** (Chromium)  
+💻 **Competitive Programmer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m currently working on  
+- Contributing fixes and patches to **Chromium**  
+- Building strong problem-solving skills through **ICPC training & Codeforces**  
+
+### 🌱 I’m looking to collaborate on  
+- Open source projects in **systems, compilers, and web engines**  
+- Competitive programming communities & problem-setting  
+
+### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/mostafa-aboalkasim)  
+- [Codeforces](https://codeforces.com/profile/Aboalkasim)
